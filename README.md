@@ -8,5 +8,5 @@ This portfolio will contain copies of my Enterprise Data Management Lab Exercise
 - HIgh School:Holy Angel University
 - Elementary
 # My Projects
-- Project 1: [Data Cleaning and Preparation](https://github.com/arshPatchak/Midterm-Task-1)
+- Midterm Lab Task 1: [Data Cleaning and Preparation]
 - Project 2: [Data Modeling](https://arshpatchak.github.io/testCodes/)
