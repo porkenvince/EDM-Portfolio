@@ -9,5 +9,5 @@ For this task we are given a Flat data from Excel (See rawfile) and we are Task 
 - Remove Duplicates
 ## Normalization 
 ## Here's the screenshot of my output before I started data cleaning (See screenshot)
-![Sample Output](assets/images/pic.jpg)
+![Sample Output](images/pic.jpg)
 ## Here's the screenshot of my output after I started data cleaning (See screenshot)
