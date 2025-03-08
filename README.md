@@ -7,4 +7,4 @@ Hi i am Vince Aubrey C. Ferrer and currently studying at City College of Angeles
 - Elementary: Lourdes Northwest Elementary School
 # My Projects
 - Midterm Lab Task 1: [Data Cleaning and Preparation](Midterm%20Task%201/README.md)
-# Here's the Phtysical Data
+# Here's the Physical Data Model
