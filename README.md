@@ -11,4 +11,4 @@ Short professional bios are usually written in the third person and are limited 
 - Elementary
 # My Projects
 - Midterm Lab Task 1: [Data Cleaning and Preparation using EXCEL](Midterm%20Task%201/README.md)
-- Midterm Lab Task 2: [Data Cleaning and Preparation using POWER QUERY](https://arshpatchak.github.io/testCodes/)
+
