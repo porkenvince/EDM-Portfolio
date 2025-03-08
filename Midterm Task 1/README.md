@@ -15,5 +15,5 @@ Mapped the Normalized tables as a Physical Data Model
 ![Screenshot](images/Raw%20Data.PNG)
 
 ## STEP 4 Here's the screenshot of my output after I started data cleaning (See screenshot)
-![Sample Output](images/1.JPG)
+![Screenshot](images/Clean%20Data%20Recapor.PNG)
 ## Here's the Physical Data Mode
