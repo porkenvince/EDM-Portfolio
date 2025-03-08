@@ -1,14 +1,10 @@
-# EDM-Portfolio - Patchak Supee
-This portfolio will contain copies of my Enterprise Data Management Lab Exercises
+# EDM-Portfolio - Vince Aubrey C. Ferrer
 # About Me
-A short professional biography is a brief summary of your career accomplishments. It provides an overview of your most relevant professional experiences, qualifications, and achievements.
-Short professional bios are usually written in the third person and are limited to a few sentences or concise paragraphs. The shorter length works well as a quick introduction for resumes, professional profiles, employer websites, social media accounts, author descriptions, and speaking engagements.
+Hi i am Vince Aubrey C. Ferrer and currently studying at City College of Angeles Bachelor of Science in Information System
 # Education
-- Post Graduate: Doctor in Information Technology (DIT) - Ongoing (AUF)
-- Masters: Master in Informtion Technology(MIT)
-- College: Bachelor of Science in COmputer Science (HAU)
-- HIgh School:Holy Angel University
-- Elementary
+- College: City College of Angeles (BSIS)
+- HIgh School: Angeles City National Highschool
+- Elementary: Lourdes Northwest Elementary School
 # My Projects
 - Midterm Lab Task 1: [Data Cleaning and Preparation](Midterm%20Task%201/README.md)
-
+# Here's the Phtysical Data
