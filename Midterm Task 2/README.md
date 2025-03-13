@@ -1,5 +1,5 @@
 # [Midterm Lab Task 2](https://github.com/user-attachments/files/19111495/Midterm.Lab.Task.2.xlsx)
-This portfolio demonstrates the process of data cleaning and preparation using Power Query. The dataset consists of multiple related tables, where cleaning techniques are applied to improve data quality and consistency before analysis.
+This portfolio shows how to use Power Query for data preparation and cleansing. The dataset is made up of several connected tables, and before analysis, cleaning methods are used to enhance the consistency and quality of the data.
 
 ## Step-by-Step Process
 ### Step 1: Download and Load Data  
@@ -121,3 +121,4 @@ This portfolio demonstrates the process of data cleaning and preparation using P
 ![Image](https://github.com/user-attachments/assets/8c402690-1e7a-4253-899d-e0f74b6e302a)
 ### Here's the screenshot of the Query Dependencies
 ![Image](https://github.com/user-attachments/assets/e964092b-b535-4357-86aa-13795196b172)
+
