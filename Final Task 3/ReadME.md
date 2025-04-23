@@ -20,19 +20,19 @@
 ## Query Statements & Table Structure:
 ### Task 1:
 #### Query:
-![screenshot]()
+![screenshot](Image/Screenshot%202025-04-23%20224547.png)
 #### Table:
-![screenshot]()
+![screenshot](Image/Screenshot%202025-04-23%20224552.png)
 ### Task 2:
 #### Query:
-![screenshot]()
+![screenshot](Image/Screenshot%202025-04-23%20224559.png)
 ### Task 3:
 #### Query:
-![screenshot]()
+![screenshot](Image/Screenshot%202025-04-23%20224608.png)
 #### Table:
-![screenshot]()
+![screenshot](Image/Screenshot%202025-04-23%20224616.png)
 ## Task 4:
 #### Query:
-![screenshot]()
+![screenshot](Image/Screenshot%202025-04-23%20224621.png)
 #### Table
-![screenshot]()
+![screenshot](Image/Screenshot%202025-04-23%20224627.png)
