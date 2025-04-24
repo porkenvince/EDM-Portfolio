@@ -5,3 +5,31 @@ for each category.
 enrollment_limit).
 - Task 4: Calculate the total number of students enrolled across all courses.
 - Task 5: Sort courses by students enrolled in ascending order.
+
+
+## Query Statements & Table Structure:
+### Task 1:
+#### Query:
+![screenshot]()
+#### Table:
+![screenshot]()
+### Task 2:
+#### Query:
+![screenshot]()
+#### Table:
+![screenshot]()
+### Task 3:
+#### Query:
+![screenshot]()
+#### Table:
+![screenshot]()
+### Task 4:
+#### Query:
+![screenshot]()
+#### Table:
+![screenshot]()
+### Task 5:
+#### Query:
+![screenshot]()
+#### Table:
+![screenshot]()
