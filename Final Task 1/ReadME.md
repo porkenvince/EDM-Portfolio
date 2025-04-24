@@ -33,7 +33,7 @@
 #### Query:
 ![screenshot](Image/Screenshot%202025-04-23%20202330.png)
 #### Table:
-![screenshot](Screenshot%202025-04-23%20202336.png)
+![screenshot](Image/Screenshot%202025-04-23%20202336.png)
 ### Task 4:
 #### Query:
 ![screenshot](Image/Screenshot%202025-04-23%20202343.png)
