@@ -10,26 +10,26 @@ enrollment_limit).
 ## Query Statements & Table Structure:
 ### Task 1:
 #### Query:
-![screenshot]()
+![screenshot](Images/Screenshot%202025-04-24%20210456.png)
 #### Table:
-![screenshot]()
+![screenshot](Images/Screenshot%202025-04-24%20210502.png)
 ### Task 2:
 #### Query:
-![screenshot]()
+![screenshot](Images/Screenshot%202025-04-24%20210507.png)
 #### Table:
-![screenshot]()
+![screenshot](Images/Screenshot%202025-04-24%20210512.png)
 ### Task 3:
 #### Query:
-![screenshot]()
+![screenshot](Images/Screenshot%202025-04-24%20210517.png)
 #### Table:
-![screenshot]()
+![screenshot](Images/Screenshot%202025-04-24%20210522.png)
 ### Task 4:
 #### Query:
-![screenshot]()
+![screenshot](Images/Screenshot%202025-04-24%20210528.png)
 #### Table:
-![screenshot]()
+![screenshot](Images/Screenshot%202025-04-24%20210533.png)
 ### Task 5:
 #### Query:
-![screenshot]()
+![screenshot](Images/Screenshot%202025-04-24%20210538.png)
 #### Table:
-![screenshot]()
+![screenshot](Images/Screenshot%202025-04-24%20210543.png)
